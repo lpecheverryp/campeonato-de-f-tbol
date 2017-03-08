@@ -10,5 +10,9 @@ package arreglos;
  * @author Estudiantes
  */
 public class Equipo {
-    Fanático[] losFanáticos=new Fanático(1000);
+    Fanático[] losFanáticos=new Fanático [1000];
+    
+    Jugador[] jugadores=new Jugador [23];
+    int[] valorBoleta = new int[10];
 }
+

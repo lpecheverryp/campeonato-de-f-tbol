@@ -10,5 +10,6 @@ package arreglos;
  * @author Estudiantes
  */
 public class Jugador {
+    int número;
     
 }
